@@ -27,7 +27,7 @@ To get started with the Tic-Tac-No game, simply clone the repository and open th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mohamed-khaled-mohmamed/tic-tac-toe.git
+   git clone https://github.com/selhabAhmedyakoub/Tic-Tac-Toe.git
    ```
 2. Navigate to the project directory:
    ```bash
