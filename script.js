@@ -1,5 +1,5 @@
 let currentPlayer = 'X';
-let NUMBER_OF_ROWS = 4;
+let NUMBER_OF_ROWS = 3;
 const turns = NUMBER_OF_ROWS ** 2;
 let turnsCounter = 0;
 const createBoardArray = () => {
