@@ -37,10 +37,8 @@ To get started with the Tic-Tac-No game, simply clone the repository and open th
 
 ## How to Play
 
-1. **Select the Board Size:** Choose the number of squares on the board (e.g., 3x3, 4x4, 5x5).
-2. **Select Difficulty Level:** Pick a difficulty level from Easy, Medium, or Hard.
-3. **Start the Game:** Click on the squares to place your X or O.
-4. **Reset:** Press the "Reset" button to start a new game.
+1. **Start the Game:** Click on the squares to place your X or O.
+2. **Reset:** Press the "Reset" button to start a new game.
 
 ## Screenshot
 
